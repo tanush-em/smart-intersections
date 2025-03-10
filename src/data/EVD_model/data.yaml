@@ -1,0 +1,5 @@
+train: E:\PROJECTS\SIH-2024\src\data\EVD_model\images\train
+val: E:\PROJECTS\SIH-2024\src\data\EVD_model\images\val
+
+nc: 1 # no of classes (excluding background)
+names: ['ambulance']
